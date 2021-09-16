@@ -1,0 +1,42 @@
+#include <stdio.h>
+char arr[4]
+void result()
+{
+	int i 
+	for( i=0, i<4 , i++)
+	{
+		if(arr[i]=="C")print("원");
+		else if(arr[i]=="C")print("네모");
+		else if(arr[i]=="C")print("세모");
+			else if(arr[i]=="C")print("길게");
+				else if(arr[i]=="C")print("짧게");
+					else print("if");	 
+	}
+	print("/n");
+}
+void H(char h)
+{
+	arr[0]=h;
+	result();
+}
+void H(char h)
+{
+	arr[i]=h;
+	result();
+}
+void H(char h)
+{
+	arr[i]=h;
+	result();
+}
+void H(char h)
+{
+	arr[i]=h;
+	result();
+}
+print("ddddddddd");
+print("-----------------n");
+H(T),l(V),B(T),B(C),A(V),B(C)
+return 0;
+}
+
